@@ -2,7 +2,7 @@ package com.example;
 
 /**
  * Calculo del precio con iva a partir del precio base
- * Proporcione el preio base y el iva correspondiente
+ * Proporcione el precio base y el iva correspondiente
  */
 public class Ejercicio2 {
 
